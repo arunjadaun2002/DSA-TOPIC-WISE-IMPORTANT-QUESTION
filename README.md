@@ -3,6 +3,7 @@ We covering all the important  topic wise question topics include = Array, Linke
 
 1- ARRAY
 **********
+1. Move Zeroes #leetcode 283
 
 
 
@@ -19,6 +20,7 @@ We covering all the important  topic wise question topics include = Array, Linke
 
 3- STACK
 **********
+1. Daily Temperatures #leetcode 739
 
 
 
